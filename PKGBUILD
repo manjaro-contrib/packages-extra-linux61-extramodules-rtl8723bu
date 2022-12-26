@@ -5,14 +5,14 @@
 # Bob Fanger < bfanger(at)gmail >
 # Filip <fila pruda com>, Det < nimetonmaili(at)gmail >
 
-_linuxprefix=linux61
-_extramodules=extramodules-6.1-MANJARO
+_linuxprefix=linux62
+_extramodules=extramodules-6.2-MANJARO
 pkgname=$_linuxprefix-rtl8723bu
 _pkgname=rtl8723bu
 _libname=8723bu
 _commit=d79a676a8d3f0bb6ac8af126689c6ac6869cb6f2
 pkgver=20220818
-pkgrel=2
+pkgrel=0.1
 pkgdesc="A kernel module for Realtek 8723bu network cards"
 url="http://www.realtek.com.tw"
 license=("GPL")
